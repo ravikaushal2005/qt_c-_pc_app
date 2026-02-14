@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-0f7b4207ab564adde220.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "notepad",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "notepad::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-notepad-Release-206d7b50189d283c1eec.json",
+					"name" : "notepad",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "notepad_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-notepad_autogen-Release-3a11adeffcf721e1c551.json",
+					"name" : "notepad_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "notepad_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-notepad_autogen_timestamp_deps-Release-5fce7240cf7f5f7a4c37.json",
+					"name" : "notepad_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Ravi Kaushal/Desktop/qt/notepad/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release",
+		"source" : "C:/Users/Ravi Kaushal/Desktop/qt/notepad"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

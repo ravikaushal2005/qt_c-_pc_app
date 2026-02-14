@@ -1,0 +1,37 @@
+{
+	"BUILD_DIR" : "C:/Users/Ravi Kaushal/Desktop/qt/notepad/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/notepad_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/Ravi Kaushal/Desktop/qt/notepad/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/Ravi Kaushal/Desktop/qt/notepad/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/Ravi Kaushal/Desktop/qt/notepad",
+	"CMAKE_SOURCE_DIR" : "C:/Users/Ravi Kaushal/Desktop/qt/notepad",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "C:/Users/Ravi Kaushal/Desktop/qt/notepad/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/notepad_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/Ravi Kaushal/Desktop/qt/notepad/res/information-button.png",
+		"C:/Users/Ravi Kaushal/Desktop/qt/notepad/res/save.png",
+		"C:/Users/Ravi Kaushal/Desktop/qt/notepad/res/open.png",
+		"C:/Users/Ravi Kaushal/Desktop/qt/notepad/res/paper.png",
+		"C:/Users/Ravi Kaushal/Desktop/qt/notepad/res/undo-circular-arrow.png",
+		"C:/Users/Ravi Kaushal/Desktop/qt/notepad/res/loupe.png",
+		"C:/Users/Ravi Kaushal/Desktop/qt/notepad/res/palette.png",
+		"C:/Users/Ravi Kaushal/Desktop/qt/notepad/res/saveas.png",
+		"C:/Users/Ravi Kaushal/Desktop/qt/notepad/res/copy.png",
+		"C:/Users/Ravi Kaushal/Desktop/qt/notepad/res/redo-arrow-symbol.png",
+		"C:/Users/Ravi Kaushal/Desktop/qt/notepad/res/icon.png",
+		"C:/Users/Ravi Kaushal/Desktop/qt/notepad/res/font.png",
+		"C:/Users/Ravi Kaushal/Desktop/qt/notepad/res/paste.png"
+	],
+	"LOCK_FILE" : "C:/Users/Ravi Kaushal/Desktop/qt/notepad/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/CMakeFiles/notepad_autogen.dir/AutoRcc_res_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "res" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_res.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.10.2/mingw_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/Ravi Kaushal/Desktop/qt/notepad/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/CMakeFiles/notepad_autogen.dir/AutoRcc_res_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/Ravi Kaushal/Desktop/qt/notepad/res.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}
