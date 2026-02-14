@@ -1,6 +1,6 @@
 Steps:
 
-1. Apni GitHub repo open karo
+1. click green code button
 
 2. Green Code button dabao
 
